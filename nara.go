@@ -1,3 +1,4 @@
+// ini merupakan tugas besar mata kuliah alpro, dan komentar untuk tugas Git Wawasan Global TIK
 package main
 
 import (
